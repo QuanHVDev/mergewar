@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d91ab77d568c48df95c3eb942c6c8640, type: 3}
+  m_Name: e3
+  m_EditorClassIdentifier: 
+  name: e3_enemy
+  health: 400
+  attack: 10
+  aSpeed: 1
+  aRange: 1.5
+  detectionRadius: 15
+  hpBonus: 0
+  attackBonus: 0
+  id: 3
+  enemyBaseController: {fileID: 3305631179160284558, guid: 3911194a10f389e4489adce8da6aede5, type: 3}
